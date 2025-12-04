@@ -1,3 +1,6 @@
 [submodule "AM-Modulation-Techniques-in-MATLAB-DSB-LC-DSB-SC-SSB-"]
 	path = AM-Modulation-Techniques-in-MATLAB-DSB-LC-DSB-SC-SSB-
 	url = https://github.com/L-YS-Ayoussef/AM-Modulation-Techniques-in-MATLAB-DSB-LC-DSB-SC-SSB-.git
+[submodule "Pulse-Modulation-Techniques-PAM-Flat-Top-PAM-PWM-PPM-Modulation-and-Demodulation-"]
+	path = Pulse-Modulation-Techniques-PAM-Flat-Top-PAM-PWM-PPM-Modulation-and-Demodulation-
+	url = https://github.com/L-YS-Ayoussef/Pulse-Modulation-Techniques-PAM-Flat-Top-PAM-PWM-PPM-Modulation-and-Demodulation-.git
