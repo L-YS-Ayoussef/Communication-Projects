@@ -17,3 +17,14 @@ This project implements and visualizes three fundamental analog modulation schem
 - Single Sideband (SSB)
 
 The goal is to illustrate how each scheme works in the time and frequency domains, and to highlight the trade-offs in power and bandwidth efficiency.
+
+### 2️⃣ Pulse Modulation Techniques: PAM, Flat-Top-PAM, PWM, and PPM [Modulation-and-Demodulation]
+**Folder:** `Pulse-Modulation-Techniques-PAM-Flat-Top-PAM-PWM-PPM-Modulation-and-Demodulation-/`  
+This project implements and visualizes four fundamental pulse modulation techniques:
+
+- Pulse Amplitude Modulation (PAM)
+- Flat-Top Pulse Amplitude Modulation (Flat-Top PAM)
+- Pulse Width Modulation (PWM)
+- Pulse Position Modulation (PPM)
+
+For each technique, both modulation and demodulation are demonstrated using simple mathematical models and signal plots.
