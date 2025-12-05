@@ -7,3 +7,6 @@
 [submodule "Digital-Filtering-of-an-Audio-Signal"]
 	path = Digital-Filtering-of-an-Audio-Signal
 	url = https://github.com/L-YS-Ayoussef/Digital-Filtering-of-an-Audio-Signal.git
+[submodule "Spectrogram-Analysis-of-Epileptic-EEG-Using-STFT-and-Windowing"]
+	path = Spectrogram-Analysis-of-Epileptic-EEG-Using-STFT-and-Windowing
+	url = https://github.com/L-YS-Ayoussef/Spectrogram-Analysis-of-Epileptic-EEG-Using-STFT-and-Windowing.git
