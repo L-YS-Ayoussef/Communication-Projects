@@ -28,3 +28,18 @@ This project implements and visualizes four fundamental pulse modulation techniq
 - Pulse Position Modulation (PPM)
 
 For each technique, both modulation and demodulation are demonstrated using simple mathematical models and signal plots.
+
+### 3️⃣ Digital-Filtering-of-an-Audio-Signal
+**Folder:** `Digital-Filtering-of-an-Audio-Signal/`  
+This project focuses on **digital FIR filtering of an audio signal** using `MATLAB`.  
+It consists of two main parts:
+
+- **Part 1:** Development of a filter design tool supporting:
+  - Windowed Sinc FIR design
+  - Least Squares (LS) FIR design
+  - Weighted Least Squares (WLS) FIR design
+- **Part 2:** Practical application of the tool to:
+  - Analyze an audio file in time and frequency domains
+  - Add a sinusoidal interference
+  - Design FIR filters to suppress the interference
+  - Evaluate the results by plotting spectra and listening to the processed audio
