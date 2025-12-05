@@ -4,3 +4,6 @@
 [submodule "Pulse-Modulation-Techniques-PAM-Flat-Top-PAM-PWM-PPM-Modulation-and-Demodulation-"]
 	path = Pulse-Modulation-Techniques-PAM-Flat-Top-PAM-PWM-PPM-Modulation-and-Demodulation-
 	url = https://github.com/L-YS-Ayoussef/Pulse-Modulation-Techniques-PAM-Flat-Top-PAM-PWM-PPM-Modulation-and-Demodulation-.git
+[submodule "Digital-Filtering-of-an-Audio-Signal"]
+	path = Digital-Filtering-of-an-Audio-Signal
+	url = https://github.com/L-YS-Ayoussef/Digital-Filtering-of-an-Audio-Signal.git
