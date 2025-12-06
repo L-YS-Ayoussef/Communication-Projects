@@ -10,3 +10,6 @@
 [submodule "Spectrogram-Analysis-of-Epileptic-EEG-Using-STFT-and-Windowing"]
 	path = Spectrogram-Analysis-of-Epileptic-EEG-Using-STFT-and-Windowing
 	url = https://github.com/L-YS-Ayoussef/Spectrogram-Analysis-of-Epileptic-EEG-Using-STFT-and-Windowing.git
+[submodule "JPEG-Image-Coding-with-DCT-and-Convolutional-Channel-Coding-in-Python"]
+	path = JPEG-Image-Coding-with-DCT-and-Convolutional-Channel-Coding-in-Python
+	url = https://github.com/L-YS-Ayoussef/JPEG-Image-Coding-with-DCT-and-Convolutional-Channel-Coding-in-Python.git
