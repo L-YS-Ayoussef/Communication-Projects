@@ -13,3 +13,6 @@
 [submodule "JPEG-Image-Coding-with-DCT-and-Convolutional-Channel-Coding-in-Python"]
 	path = JPEG-Image-Coding-with-DCT-and-Convolutional-Channel-Coding-in-Python
 	url = https://github.com/L-YS-Ayoussef/JPEG-Image-Coding-with-DCT-and-Convolutional-Channel-Coding-in-Python.git
+[submodule "Multi-Floor-Enterprise-Network-Design-Cisco-Packet-Tracer-"]
+	path = Multi-Floor-Enterprise-Network-Design-Cisco-Packet-Tracer-
+	url = https://github.com/L-YS-Ayoussef/Multi-Floor-Enterprise-Network-Design-Cisco-Packet-Tracer-.git
