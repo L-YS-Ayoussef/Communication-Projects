@@ -74,3 +74,7 @@ This project implements a **JPEG-like image compression scheme** and a **convolu
 
 All demonstrations and plots (BER vs SNR, reconstructed images) are generated in Python.
 
+### 6️⃣ Multi-Floor Enterprise Network – Cisco Packet Tracer
+**Folder:** `Multi-Floor-Enterprise-Network-Design-Cisco-Packet-Tracer-/`  
+The project models a **LAN for a three-floor building**, where each department (Reception, Logistics, Store, Sales, Finance, HR, IT, Admin) is placed in its own **subnet / VLAN**.  
+Routers connect the floors together and run **OSPF** so that all subnets can communicate and access shared services such as the **DNS** and **Web Server**. The simulation was done using **Cisco Packet Tracer**
