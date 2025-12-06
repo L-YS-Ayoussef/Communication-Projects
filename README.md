@@ -55,3 +55,22 @@ The core goals are to:
 - Understand the trade-off between **time resolution** and **frequency resolution** in practical EEG analysis.
 
 All code is implemented in MATLAB (`.m` and `.mlx` files), and the project operates on multi-channel EEG data sampled at **256 Hz**.
+
+
+### 5️⃣ JPEG Image Coding & Convolutional Channel Coding in Python
+**Folder:** `JPEG-Image-Coding-with-DCT-and-Convolutional-Channel-Coding-in-Python/`  
+This project implements a **JPEG-like image compression scheme** and a **convolutional channel coding system** entirely in **Python**, without using built-in JPEG or convolutional-coding libraries.
+
+- **Part 1 – JPEG Encoder/Decoder:**  
+  A custom grayscale JPEG-style codec is implemented for 8-bit images:
+  - Block-based 2D DCT (coded from scratch),
+  - Quantization using multiple 8×8 tables,
+  - Zig-zag scanning, run-length encoding,
+  - Huffman coding and finite-precision arithmetic coding,
+  - Full decoder pipeline and visual comparison for each quantization table.
+
+- **Part 2 – Channel Coding over AWGN:**  
+  A **rate 1/3 convolutional encoder** (constraint length K = 3) and **hard-decision Viterbi decoder** are implemented, integrated with BPSK modulation over an **AWGN channel**. The JPEG bitstream from Part 1 is protected with this code to build a complete **source + channel coding communication system**.
+
+All demonstrations and plots (BER vs SNR, reconstructed images) are generated in Python.
+
