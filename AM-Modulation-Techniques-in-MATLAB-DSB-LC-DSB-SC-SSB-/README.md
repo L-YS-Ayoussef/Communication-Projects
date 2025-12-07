@@ -61,4 +61,4 @@ The goal is to illustrate how each scheme works in the time and frequency domain
 
 ⚠️ **Important Notice:** This repository is publicly available for viewing only. Forking, cloning, or redistributing this project is **NOT** permitted without explicit permission.
 
-Copyright (c) 2024 Chameleon Tech
+**Copyright (c) 2024 Chameleon Tech**
